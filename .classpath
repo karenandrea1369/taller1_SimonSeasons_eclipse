@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="taller1_SimonSeasons_eclipse/src"/>
+	<classpathentry kind="lib" path="taller1_SimonSeasons_eclipse/lib/core.jar"/>
+	<classpathentry kind="output" path="taller1_SimonSeasons_eclipse/bin"/>
+</classpath>
